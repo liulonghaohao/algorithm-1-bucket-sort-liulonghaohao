@@ -1,3 +1,7 @@
+public class BucketSort{
+	public static void main(String[] args) {
+		
+	
 int [] a = {2,1,2,100};
 1.便利原数组，
 2.创建一个新的数组，使他的长度与原数组里最大的数的数值+1一样。
@@ -18,7 +22,8 @@ int [] a = {2,1,2,100};
 	                    System.out.print(k);
 	                 }
                }
-	         }
- 
+		   }
+		}
+	}
 
 
